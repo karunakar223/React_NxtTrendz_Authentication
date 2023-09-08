@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  padding: 20px 38px 20px 38px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-heading {
+  font-family: 'Roboto';
+  font-size: 48px;
+  font-weight: 700;
+  color: #1e293b;
+  width: 60%;
+}
+.home-description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #475569;
+  width: 55%;
+}
+.home-desktop-img {
+  height: 480px;
+  width: 480px;
+}
+.shop-now-button {
+  height: 34px;
+  width: 120px;
+  background-color: #0967d2;
+  border-radius: 7px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  color: #ffffff;
+}
